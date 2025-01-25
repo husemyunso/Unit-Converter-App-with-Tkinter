@@ -2,7 +2,7 @@
 
 A simple and beautifully designed unit converter app that lets you convert between various units of length, weight, and temperature. Built using Python and Tkinter, this project demonstrates GUI development and unit conversion logic.
 ## Screenshots
-![image](https://github.com/user-attachments/assets/1388cfa6-4985-4d9a-a31c-ba4f5d70686c)
+
 ![image](https://github.com/user-attachments/assets/010d4641-66a1-43ba-aab7-bc7e228f5c8a)
 
 ## Features
